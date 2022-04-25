@@ -1,7 +1,7 @@
 
 # Awesome Books
 
->A Simple page designed to study Javascript objects and object methods.
+>Redesigned my 'Awesome Books' project to study Javascript Es6 features. 
 
 
 ## Built With
@@ -13,7 +13,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://tugsem.github.io/awesome-books/)
+[Live Demo Link](https://tugsem.github.io/AB-es6/)
 
 ## Getting Started
 
